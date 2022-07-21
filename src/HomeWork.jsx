@@ -3,8 +3,11 @@
 
 function HomeWork() {
 
-    return (
-    <div>LABAS, ZUIKI!</div>
+    return (<>        
+    <div style={{color:'pink'}}>
+    LABAS, ZUIKI!
+    </div>
+    </>
     )
 
 }
